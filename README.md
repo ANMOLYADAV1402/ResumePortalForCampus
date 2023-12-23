@@ -20,7 +20,7 @@
 
 # Login and SignUp
 ## In the login/logout procedures of this MERN stack project, JWT is employed to authenticate users, generate tokens upon login, and validate tokens to ensure secure access control.
-![image](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/2badfa6e-4639-4e24-a024-d51677bb57d3)
+![image](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/36b3224f-eff6-4807-9e56-ba4434a6705c)
 ![image](https://github.com/ANMOLYADAV1402/ResumePortalForCampus/assets/81957738/cee99c33-4120-4a9d-805d-82ebfe988d20)
 
 
